@@ -12,6 +12,7 @@ const DIGEST_LABELS = {
   bookclip: 'BookClip',
   secret: 'Secret',
   kanbanboard: 'KanbanBoard',
+  ledger: '가계부',
 };
 
 const $ = s => document.querySelector(s);

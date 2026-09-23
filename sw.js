@@ -1,6 +1,6 @@
 'use strict';
 
-const CACHE_NAME = 'bulletjournal-v1';
+const CACHE_NAME = 'bulletjournal-v2';
 const APP_SHELL = [
   './',
   './index.html',
